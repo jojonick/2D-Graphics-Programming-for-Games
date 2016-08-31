@@ -1,0 +1,7 @@
+﻿2.2. At a garage sale, you ﬁnd a used digital camera. On the side of the camera it states that it takes pictures that are 5.0 megapixels in size. What is a likely resolution (width and height) of the images taken by the camera. Assuming the images are in true color and stored uncompressed, how much space in memory does each image require?
+
+Ans:
+2560 * 1920 = 4915200 pixel 
+2560 * 1920 * 4 (32 bit) = 19660800 byte
+
+

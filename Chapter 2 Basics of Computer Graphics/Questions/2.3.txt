@@ -1,0 +1,9 @@
+2.1. Research a classic 2D game (one released prior to 1995). What was
+the resolution and color depth? What were other technical specs for
+the graphics hardware?
+
+Ans:
+Bubble Bobble (1986). Resolution 256×224 with 256 colors.
+From Wikipedia:
+Main CPUs: 2× Z80 (6MHz), Z80 (3MHz), M6801 (1MHz)
+Sound 	Sound CPU: YM2203 (3MHz), YM3526 (3MHz)

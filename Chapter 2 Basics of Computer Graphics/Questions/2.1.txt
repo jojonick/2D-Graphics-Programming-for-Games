@@ -1,0 +1,5 @@
+2.1. Calculate the amount of memory (in bytes) to store a 1,024 × 768 24-bit RGB image.
+
+Ans:
+1024 * 768 * 24 = 18874368 bit = 2359296 byte
+
