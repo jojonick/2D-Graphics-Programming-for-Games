@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a3ded24c75ec5f4fcc9c835b55ef5ceb:ccfb13988efdc4b224e8e0454a55e4e4:fb3331a220a50f3669b8b70b958c7203$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="stall.png" width="1286" height="504">
+    <sprite n="bg_blue.png" x="134" y="1" w="256" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="bg_green.png" x="392" y="1" w="256" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="bg_red.png" x="650" y="1" w="256" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="bg_wood.png" x="908" y="1" w="256" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="cloud1.png" x="884" y="345" w="134" h="82" pX="0.5" pY="0.5"/>
+    <sprite n="cloud2.png" x="1142" y="259" w="141" h="84" pX="0.5" pY="0.5"/>
+    <sprite n="curtain.png" x="1" y="1" w="131" h="426" pX="0.5" pY="0.5"/>
+    <sprite n="curtain_rope.png" x="134" y="259" w="40" h="21" pX="0.5" pY="0.5"/>
+    <sprite n="curtain_straight.png" x="884" y="259" w="256" h="80" pX="0.5" pY="0.5"/>
+    <sprite n="curtain_top.png" x="1" y="429" w="200" h="63" pX="0.5" pY="0.5"/>
+    <sprite n="grass1.png" x="750" y="259" w="132" h="200" pX="0.5" pY="0.5"/>
+    <sprite n="grass2.png" x="616" y="259" w="132" h="216" pX="0.5" pY="0.5"/>
+    <sprite n="tree_oak.png" x="203" y="259" w="143" h="244" pX="0.5" pY="0.5"/>
+    <sprite n="tree_pine.png" x="1166" y="1" w="119" h="255" pX="0.5" pY="0.5"/>
+    <sprite n="water1.png" x="348" y="259" w="132" h="224" pX="0.5" pY="0.5"/>
+    <sprite n="water2.png" x="482" y="259" w="132" h="223" pX="0.5" pY="0.5"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+3.1 What is the smallest power of two texture that will fit one of each of the following sized sprites:
+1,024 × 1,024, 512 × 512, 256 × 256, 128 × 128, 64 × 64, 32 × 32, 16 × 16, 8 × 8, 4 × 4, 2 × 2, and 1 × 1?
+
+Ans:
+2^10 = 1024 x 1024; 2^9 = 512 x 512; 2^8 = 256 x 256; 2^7 = 128 x 128; 2^6 = 64 x 64; 2 ^ 5 = 32 x 32;
+2 ^ 4 = 16 x 16; 2 ^ 3 = 8 x 8; 2 ^ 2 = 4 x 4; 2 ^ 1 = 2 x 2; 2 ^ 0 = 1 x 1  
+

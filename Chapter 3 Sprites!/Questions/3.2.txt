@@ -1,0 +1,6 @@
+3.1. Research a classic arcade system or game console (released prior to 2000). What was the maximum texture size? By including the system’s color depth, 
+calculate the amount of memory required to store the maximum-size texture for that system.
+
+Ans:
+PlayStation. According to spec, 256x256 is the maximum sprite size (texture?) and the maximum color depth is of 16,777,216 colors (24-bit true color) so 
+to store the maximum-size texture for that system we need of 256 x 256 x 3 byte of memory (196608 byte).
